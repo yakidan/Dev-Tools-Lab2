@@ -1,4 +1,4 @@
 # Lab2 #
-## Braches ##
+## Branches ##
 * master
 * develop
